@@ -13,7 +13,8 @@
 
 <img width="684" alt="2023-04-16 (2)" src="https://user-images.githubusercontent.com/102037657/232261834-9fffac08-b441-4b73-b30d-9f9ee2fc4279.png">
 
-<h2> Epoch_Categorical_Accuracy</h2>
-<img width="315" alt="2023-04-14 (8)" src="https://user-images.githubusercontent.com/102037657/232261835-0a009682-63b1-41c7-bdbc-e46d6e8f6229.png">
-<h2> Epoch Loss</h2>
-<img width="394" alt="2023-04-14 (7)" src="https://user-images.githubusercontent.com/102037657/232261837-5f05af1b-3ed2-440b-88b5-1a0e8f6752fc.png">
+<h2> Epoch_Categorical_Accuracy and Epoch Loss</h2>
+<p float="left">
+<img src="https://user-images.githubusercontent.com/102037657/232261835-0a009682-63b1-41c7-bdbc-e46d6e8f6229.png" width="400">
+<img src="https://user-images.githubusercontent.com/102037657/232261837-5f05af1b-3ed2-440b-88b5-1a0e8f6752fc.png" width="400"height="400">
+</p>
